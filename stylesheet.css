@@ -1,0 +1,36 @@
+.page{
+  text-align: center;
+  background-color: rgb(241, 239, 247)
+
+}
+
+.heading{
+  text-decoration: underline;
+}
+
+.titleH{
+  color: rgb(13, 94, 233)
+}
+
+.titleC{
+  color: rgb(104, 221, 13)
+}
+
+.titleJ{
+  color: rgb(221, 22, 9)
+}
+body{
+    background-color: rgb(149, 109, 180)
+}
+
+.h:hover{
+  color:rgb(232, 251, 6);
+}
+
+.j:hover{
+  color:rgb(232, 251, 6);
+}
+
+.c:hover{
+  color:rgb(232, 251, 6);
+}
