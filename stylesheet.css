@@ -19,8 +19,17 @@
 .titleJ{
   color: rgb(221, 22, 9)
 }
+
+.titleN{
+  color: orange;
+}
+
 body{
     background-color: rgb(149, 109, 180)
+}
+
+.n:hover{
+  color:rgb(232, 251, 6);
 }
 
 .h:hover{
@@ -33,4 +42,8 @@ body{
 
 .c:hover{
   color:rgb(232, 251, 6);
+}
+
+table{
+  margin-left:80px;
 }
