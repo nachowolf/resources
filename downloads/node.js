@@ -28,7 +28,7 @@ app.listen(PORT, function () {
 //npm install body-parser --save
 //npm install express-handlebars --save
 //npm install eslint --save
-//npx init eslint
+//npx eslint --init
 /*
 module.exports = {
     "extends": "standard",
